@@ -28,8 +28,8 @@ const HeroSection = () => {
             Ahmad<br />
             <span className="doodle-underline">Hassan</span>
           </h1>
-          <p className="text-lg md:text-xl text-muted-foreground max-w-md mx-auto lg:mx-0 mb-8 leading-relaxed">
-            Associate Software Engineer with expertise in full-stack development. Currently pursuing Master's at BUPT, Beijing.
+          <p className="text-lg md:text-xl text-muted-foreground max-w-md mx-auto lg:mx-0 mb-8 leading-relaxed">Senior Software Engineer with expertise in full-stack development. Currently pursuing Master's at BUPT, Beijing.
+
           </p>
 
           <div className="flex gap-4 justify-center lg:justify-start mb-8">
@@ -67,8 +67,8 @@ const HeroSection = () => {
               <img
                 src={profileImg}
                 alt="Ahmad Hassan - Software Engineer"
-                className="w-full h-full object-cover object-top scale-110"
-              />
+                className="w-full h-full object-cover object-top scale-110" />
+
             </div>
             {/* Floating doodle accents around image */}
             <DoodleStar className="absolute -top-4 -right-4 w-8 h-8 text-secondary animate-pulse" />
@@ -76,8 +76,8 @@ const HeroSection = () => {
           </div>
         </div>
       </div>
-    </section>
-  );
+    </section>);
+
 };
 
 export default HeroSection;
