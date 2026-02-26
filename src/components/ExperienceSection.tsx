@@ -2,7 +2,7 @@ import { DoodleArrow, DoodleSpiral } from "./DoodleElements";
 
 const experiences = [
   {
-    period: "2023 – 2025",
+    period: "2023 – 2026",
     role: "Senior Software Engineer",
     company: "Qbatch",
     location: "Faisalabad, Pakistan",
