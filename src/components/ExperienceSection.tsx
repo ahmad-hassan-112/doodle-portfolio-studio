@@ -15,13 +15,6 @@ const experiences = [
     location: "Faisalabad, Pakistan",
     description: "Gained hands-on experience with Ruby on Rails development during summer internship.",
   },
-  {
-    period: "2019",
-    role: "Teaching Assistant",
-    company: "FAST-NU",
-    location: "CFD Campus, Pakistan",
-    description: "Teaching Assistant under Dr. Hashim Yasin for Data Structures course.",
-  },
 ];
 
 const ExperienceSection = () => {
