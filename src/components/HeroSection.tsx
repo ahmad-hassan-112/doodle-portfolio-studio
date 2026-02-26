@@ -37,7 +37,7 @@ const HeroSection = () => {
               <Mail className="w-4 h-4" />
               Get in Touch
             </a>
-            <a href="https://github.com/AhmadHassan1102" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 border-2 border-primary text-primary px-6 py-3 rounded-full font-medium hover:bg-primary hover:text-primary-foreground transition-all hover:scale-105">
+            <a target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 border-2 border-primary text-primary px-6 py-3 rounded-full font-medium hover:bg-primary hover:text-primary-foreground transition-all hover:scale-105" href="https://github.com/ahmad-hassan-112">
               <Github className="w-4 h-4" />
               GitHub
             </a>
