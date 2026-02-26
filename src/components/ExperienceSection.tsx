@@ -3,7 +3,7 @@ import { DoodleArrow, DoodleSpiral } from "./DoodleElements";
 const experiences = [
   {
     period: "2023 – 2025",
-    role: "Associate Software Engineer",
+    role: "Senior Software Engineer",
     company: "Qbatch",
     location: "Faisalabad, Pakistan",
     description: "Built full-stack applications including domain management platforms, Chrome extensions, and satellite data processing systems using Next.js, Node.js, React, Vue, Docker, and AWS.",
