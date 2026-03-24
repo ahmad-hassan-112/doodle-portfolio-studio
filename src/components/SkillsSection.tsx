@@ -19,7 +19,7 @@ const skillCategories = [
   },
   {
     title: "Integrations",
-    skills: ["Stripe", "Escrow", "Zendesk", "Paytm", "DirectUs", "Strapi", "OpenAI"],
+    skills: ["Stripe", "Escrow", "Zendesk", "Paypal", "DirectUs", "Strapi", "OpenAI"],
   },
   {
     title: "Languages",

@@ -4,7 +4,7 @@ import { ExternalLink } from "lucide-react";
 const projects = [
   {
     title: "Domains.co.uk",
-    tech: "Next.js · Node.js · PostgreSQL · Docker · AWS",
+    tech: "Next.js · Node.js · PostgreSQL · AWS",
     description: "A comprehensive domain management platform for browsing, purchasing, leasing, and negotiating premium domains. Integrated OpenAI, Stripe, Escrow, Zendesk, and Cloudflare.",
   },
   {
@@ -14,7 +14,7 @@ const projects = [
   },
   {
     title: "Satellite Data Processing",
-    tech: "C++ · Docker · Parallel Programming",
+    tech: "C++ · Parallel Programming",
     description: "Optimized satellite data processing application with parallel programming techniques, achieving significant improvements in execution time.",
   },
   {
@@ -24,7 +24,7 @@ const projects = [
   },
   {
     title: "Friend Filter",
-    tech: "Vue.js · Vuex · Ruby Grape API · Docker",
+    tech: "Vue.js · Vuex · Ruby Grape API",
     description: "Chrome extension enhancing Facebook marketing workflows — identify engaged friends, detect inactive accounts, and optimize friend lists.",
   },
   {
