@@ -51,7 +51,7 @@ const ProjectsSection = () => {
             <div key={i} className="group doodle-border p-6 bg-card hover:shadow-xl transition-all duration-300 hover:-translate-y-1">
               <div className="flex items-start justify-between mb-3">
                 <h3 className="text-lg font-bold group-hover:text-secondary transition-colors">{project.title}</h3>
-                <ExternalLink className="w-4 h-4 text-muted-foreground opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0 mt-1" />
+                {/* <ExternalLink className="w-4 h-4 text-muted-foreground opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0 mt-1" /> */}
               </div>
               <p className="font-handwritten text-sm text-secondary mb-3">{project.tech}</p>
               <p className="text-muted-foreground text-sm leading-relaxed">{project.description}</p>
